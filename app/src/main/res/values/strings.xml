@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickCart</string>
+    <string name="welcomeText">Welcome to QuickCart</string>
+    <string name="homeText">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet
+    </string>
+    <string name="loginText">Login</string>
+    <string name="signupText">SignUp</string>
+</resources>
